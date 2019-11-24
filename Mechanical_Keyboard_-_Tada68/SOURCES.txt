@@ -1,0 +1,4 @@
+Sources for Mechanical Keyboard - Tada68
+
+Easy to print 65% Keyboard (http://www.thingiverse.com/thing:2952008)
+KeyV2: Parametric Mechanical Keycap Library (http://www.thingiverse.com/thing:2783650)
